@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body {
+	background: -webkit-gradient(linear, left top, left bottom, from(#a3a3c2),
+		to(#000)) fixed;
+	padding-top: 60px;
+}
+
+.card {
+	box-shadow: 3px 6px 8px 3px rgba(100, 100, 100, 0.3);
+}
+
+.cad {
+	padding-top: 20px;
+}
